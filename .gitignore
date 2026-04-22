@@ -1,7 +1,13 @@
+# 個人データ
+*.csv
+*.Zone.Identifier
+
+# 環境・設定
 .venv/
+.vscode/
 __pycache__/
 *.pyc
-.venv/
-__pycache__/
-*.pyc
-.venv/
+
+# 出力フォルダ
+jinjer出力/
+CSV全員/
